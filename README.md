@@ -21,7 +21,7 @@ The module also uses the [node-audiorecorder](https://github.com/RedKenrok/node-
 ### Constructor
 ```javascript
 // Import module.
-const HotwordDetector = require('node-hotworddetector');
+const HotwordDetector = require('hotwordwrapper');
 
 // Detector data.
 // See the 'snowboy' module for more information.
