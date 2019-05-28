@@ -8,7 +8,7 @@ Written in [Node.js](https://nodejs.org/) using latest [Snowboy](https://snowboy
 
 ## Installation
 ```
-npm i --save node-hotworddetector
+npm i --save hotwordwrap
 ```
 
 ## Dependencies
