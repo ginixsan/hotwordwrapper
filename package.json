@@ -1,19 +1,10 @@
 {
-"author": {
-    "name": "Gines Sanz",
-    "url": "http://www.gines-sanz.com"
-  },
+  "author": "",
   "name": "hotwordwrapper",
   "version": "1.0.0",
   "description": "Hotword detector for Node.js using Snowboy by Kitt.ai.",
-  "license": "MIT",
-  "keywords": [
-    "hotword",
-    "wake word",
-    "detector",
-    "snowboy",
-    "kitt.ai"
-  ],
+  "license": "ISC",
+  "keywords": [],
   "main": "library/index.js",
   "files": [
     "library/"
@@ -25,9 +16,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "mic": "^2.1.2",
     "nan": "^2.14.0",
