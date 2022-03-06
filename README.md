@@ -1,8 +1,7 @@
 hotwordwrap
 
 # Hotword detector wrapper
-Based on node-hotworddetector now you can use sox or arecord in linux based systems
-See [node-hotworddetector](https://github.com/RedKenrok/node-hotworddetector) for examples.
+Now you can use sox or arecord in linux based systems
 Written in [Node.js](https://nodejs.org/) using latest [Snowboy](https://snowboy.kitt.ai/) version by [Kitt.ai](https://kitt.ai/). Snowboy is an offline neural network driven hotword detection library, with compatibility only on MacOS (darwin) and most Linux distro's. This module aims to simplify and improve the standard [snowboy module](https://github.com/Kitt-AI/snowboy) by turning it into one single interface with build-in microphone recording and by adding start, stop, pause, and resume functionality.
 
 
